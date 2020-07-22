@@ -12,3 +12,4 @@
 
 * Bootstrap control
 * Flow control
+* DOM manipulation
